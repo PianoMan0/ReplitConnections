@@ -17,14 +17,15 @@ Users still exists.
 9. https://replit.com/@EnZon3
 10. https://replit.com/@SalladShooter
 11. https://replit.com/@pxlmastrXD
+12. https://replit.com/@PianoMan0
 
 
-More comming soon
+More coming soon
 
 
 **Projects**
 
-COMING SOON
+We are in the process of building a community-centered IDE, like old Replit, but better!
 
 **More Resources**
 1. [TheLastComments](https://github.com/ReplitConnections/TheLastComments)
